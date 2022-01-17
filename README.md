@@ -22,7 +22,6 @@
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171221429.png" width=800 />
 </p>
 
-
 ## 使用
 
 选择（可多选）文献，点击 Zotero 菜单`工具 --> 清除字段`，即可选择想要清除的字段。
