@@ -6,7 +6,7 @@
 	<a href="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171141964.png"><img src="https://img.shields.io/badge/公众号-青柠学术-orange?logo=wechat" alt="公众号" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/qnscholar/zotero-clear-field">Chinese</a> | <strong>English</strong>
+  <a href="https://github.com/qnscholar/zotero-clear-field/blob/main/README.md">Chinese</a> | <strong>English</strong>
 </p>
 
 # Zotero Clear Field
