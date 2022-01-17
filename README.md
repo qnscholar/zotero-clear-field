@@ -18,7 +18,7 @@
 1. 前往[ Zotero Clear Field 插件的 Release 页面](https://github.com/qnscholar/zotero-clear-field/releases)，下载插件安装包 `zotero-clear-field.xpi`。
 2. 选择 Zotero 菜单`工具 --> 插件`，在弹出的窗口中，点击右上角小齿轮，选择“Install Add-on From File”，安装第一步下载的`zotero-clear-field.xpi`。
 
-<p align="left">
+<p align="center">
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171221429.png" width=800 />
 </p>
 
