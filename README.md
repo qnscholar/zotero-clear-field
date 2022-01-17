@@ -27,6 +27,6 @@
 
 选择（可多选）文献，点击 Zotero 菜单`工具 --> 清除字段`，即可选择想要清除的字段。
 
-<p align="left">
+<p align="center">
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171219312.png" width=400 />
 </p>
