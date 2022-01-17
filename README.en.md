@@ -28,3 +28,11 @@ Download the Zutilo `zotero-clear-field.xpi` file from [Zotero Clear Field's Git
 <p align="center">
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171205018.png" width=400 />
 </p>
+
+## Follow me
+
+Follow me to get more efficient Zotero plugins.
+
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171237137.png" width=600 />
+</p>
