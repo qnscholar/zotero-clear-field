@@ -30,7 +30,7 @@
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171219312.png" width=400 />
 </p>
 
-## 关注我
+## ❤️ 关注我
 
 关注青柠学术，获取更多实用 Zotero 插件。
 
