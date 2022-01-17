@@ -9,7 +9,7 @@
   <a href="https://github.com/qnscholar/zotero-clear-field">Chinese</a> | <strong>English</strong>
 </p>
 
-# Bob
+# Zotero Clear Field
 
 A simple tool for clearing the field(s) of Zotero Item.
 
