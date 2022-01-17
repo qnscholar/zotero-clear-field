@@ -15,7 +15,7 @@ A simple tool for clearing the field(s) of Zotero Item.
 
 ## Install
 
-Download the Zutilo `zotero-clear-field.xpi` file from [Zotero Clear Field's GitHub releases page](https://github.com/qnscholar/zotero-clear-field/releases). Then go to Tools->Add-ons in Zotero Standalone. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded `zotero-clear-field.xpi` file.
+Download the `zotero-clear-field.xpi` file from [Zotero Clear Field's GitHub releases page](https://github.com/qnscholar/zotero-clear-field/releases). Then go to Tools->Add-ons in Zotero Standalone. Click on the gear button in the upper right area of the Add-ons Manager window that appears and choose "Install Add-on From File." Then select the downloaded `zotero-clear-field.xpi` file.
 
 <p align="center">
   <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171229382.png" width=600 />
